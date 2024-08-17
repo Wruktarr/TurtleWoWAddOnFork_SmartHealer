@@ -1,0 +1,6 @@
+.idea
+.vscode
+Thumbs.db
+desktop.ini
+.DS_Store
+__MACOSX/*
